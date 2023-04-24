@@ -1,14 +1,14 @@
 {
-  "name": "JATE",
+  "name": "TEXT-EDITOR",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
+    "start": "npm start",
     "server": "",
     "build": "",
-    "install": "",
+    "install": "npm install",
     "client": ""
   },
   "keywords": [],
